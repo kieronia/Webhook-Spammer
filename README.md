@@ -6,4 +6,6 @@ This sends post requests to webhooks, with your choice of avatars, messages,and 
 
 It is multithreaded and uses proxies to bypass ratelimits, making it one of the best spammers.
 
+Edit- seems proxies don't bypass ratelimits, sorry - gonna leave it in the project though so people can learn about requests with proxies etc
+
 Enjoy!
