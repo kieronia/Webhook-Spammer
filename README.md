@@ -8,4 +8,6 @@ It is multithreaded and uses proxies to bypass ratelimits, making it one of the 
 
 Edit- seems proxies don't bypass ratelimits, sorry - gonna leave it in the project though so people can learn about requests with proxies etc
 
+Everything can be updated while running the program btw!
+
 Enjoy!
